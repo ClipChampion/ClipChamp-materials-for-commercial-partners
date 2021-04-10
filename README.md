@@ -14,3 +14,6 @@
 <h1 align="center"><a  href="">DOWNLOAD</a></h1>
 
 ## Description
+## Disclaimer 
+Please do not share link to this repository 
+it exists solely for commercial and advertising purposes.
