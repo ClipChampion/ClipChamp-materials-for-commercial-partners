@@ -1,4 +1,4 @@
-<h1 align="center">Commercial Version (2.0.1)</h1>
+<h1 align="center">ClipChamp Commercial Version (2.0.1)</h1>
 <h2 align="center">
 </h2>
 <p align="center">
