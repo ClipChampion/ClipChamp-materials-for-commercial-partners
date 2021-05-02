@@ -1,4 +1,4 @@
-<h1 align="center">ClipChamp Commercial Version (2.0.1)</h1>
+<h1 align="center">ClipChamp materials for commercial partners </h1>
 <h2 align="center">
 </h2>
 <p align="center">
@@ -11,7 +11,6 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/ty3f9qatdymkz22/OlaVPNpr.rar?dl=0">DOWNLOAD ClipChamp</a></h1>
-<h1 align="center"><a  href="https://www.dropbox.com/s/ty3f9qatdymkz22/OlaVPNpr.rar?dl=0">Commercial clips</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/ty3f9qatdymkz22/OlaVPNpr.rar?dl=0">DropBox archive </a></h1>
 <h1 align="center">DISCLAIMER </h1>
                  Please do not share this link with anyone else, since this version exists strictly for advertising purposes !
